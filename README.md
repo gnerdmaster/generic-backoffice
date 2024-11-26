@@ -1,2 +1,2 @@
 # generic-backoffice
-Back Office
+Back Office to manage a basic website.
