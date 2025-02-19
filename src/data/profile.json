@@ -1,0 +1,144 @@
+{
+  "id": "olaf",
+  "name": "Gustavo Olaf Felix Chan",
+  "basicData": {
+    "birthdate": "2000-01-01",
+    "gender": "male",
+    "profession": "Ing. Sistemas Computacionales",
+    "country": "MX",
+    "city": "Monterrey",
+    "state": "Nuevo Leon",
+    "zipCode": "64400",
+    "address": "Calle 1",
+    "firstName": "Gustavo Olaf",
+    "lastName": "Felix Chan"
+  },
+  "contact": {
+    "phone": "+524100005403",
+    "email": "example@gmail.com",
+    "whatsapp": "+524100005403",
+    "facebook": "https://www.facebook.com/",
+    "telegram": "https://telegram.org/"
+  },
+  "workExperience": [
+    {
+      "position": "Dev Team",
+      "company": "AprendesFacil",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Lic. En Ingeniería en Sistemas Computacionales",
+      "endDate": "2022-01-01",
+      "startDate": "2017-01-01",
+      "school": "Instituto Tecnológico Superior de Escárcega",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium."
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "beginner",
+      "type": "technical",
+      "categories": [
+        "hard_skill",
+        "technology",
+        "web",
+        "frontend",
+        "programation"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "medium",
+      "type": "technical",
+      "categories": [
+        "hard_skill",
+        "technology",
+        "web",
+        "frontend",
+        "programation"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "advanced",
+      "type": "technical",
+      "categories": [
+        "hard_skill",
+        "technology",
+        "web",
+        "frontend",
+        "programation"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "expert",
+      "type": "technical",
+      "categories": ["hard_skill", "technology", "backend", "programation"]
+    },
+    {
+      "name": "English",
+      "level": "beginner",
+      "type": "linguistic",
+      "categories": ["hard_skill", "language"]
+    },
+    {
+      "name": "Spanish",
+      "level": "native",
+      "type": "linguistic",
+      "categories": ["hard_skill", "language"]
+    },
+    {
+      "name": "Portuguese",
+      "level": "medium",
+      "type": "linguistic",
+      "categories": ["hard_skill", "language"]
+    },
+    {
+      "name": "Russian",
+      "level": "advanced",
+      "type": "linguistic",
+      "categories": ["hard_skill", "language"]
+    },
+    {
+      "name": "Leadership",
+      "level": "basic",
+      "type": "generic",
+      "categories": ["soft_skill", "leadership"]
+    }
+  ],
+  "projectPortfolio": [
+    {
+      "name": "Project 1",
+      "description": "Description of the project",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "link": "https://example.com"
+    },
+    {
+      "name": "Project 2",
+      "description": "Description of the project",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "technologies": [],
+      "appliedSkills": ["English"],
+      "link": "https://example.com"
+    }
+  ],
+  "hobbies": ["Reading", "Playing video games", "Watching movies"],
+  "references": [
+    {
+      "name": "Reference 1",
+      "description": "Description of the reference",
+      "phone": "+524100005403",
+      "email": "example@gmail.com"
+    }
+  ],
+  "recordStatus": "on"
+}
